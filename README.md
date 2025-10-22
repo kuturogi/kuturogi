@@ -32,6 +32,8 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bertuğ_Kuturoğlu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bertugkuturoglu/)
-[![Gmail](https://img.shields.io/badge/Email-bertugkuturoglu%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bkuturoglu1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-bkuturoglu1%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bkuturoglu1@gmail.com)
+
+
 
 
