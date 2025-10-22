@@ -8,12 +8,14 @@
 </p>
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=java" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-green?logo=spring" />
-  <img alt="React" src="https://img.shields.io/badge/React-blue?logo=react" />
-  <img alt="SAP" src="https://img.shields.io/badge/SAP%20BTP-gray?logo=sap" />
-  <img alt="AI" src="https://img.shields.io/badge/Artificial%20Intelligence-black?logo=openai" />
+   <img alt="Java" src="https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />  
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="SAP BTP" src="https://img.shields.io/badge/SAP%20BTP-%230084D1.svg?style=for-the-badge&logo=sap&logoColor=white" />
+  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+
 
 <p align="center">
   <em>A passionate developer in progress who loves learning through projects and building intelligent solutions with Full-Stack development, AI, and SAP technologies.</em>
