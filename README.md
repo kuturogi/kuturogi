@@ -1,19 +1,27 @@
+# 👋 Welcome to My Tech Space
 
- # Hi there 👋 I'm Bertuğ Kuturoğlu  
 
-🎓 **Computer Engineering Student** at Düzce University  
-💡 **Aspiring Full-Stack Developer (Java | React | AI)**  
-🚀 Passionate about **SAP BTP**, Cloud, and Intelligent Enterprise Solutions  
 
----
+<p align="center">
+  🎓 <strong>Düzce Üniversitesi — Bilgisayar Mühendisliği</strong><br/>
+  💻 Aspiring Full-Stack Developer (<strong>Java · Spring · React · AI</strong>)  •  SAP BTP
+</p>
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-orange?logo=java" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-green?logo=spring" />
+  <img alt="React" src="https://img.shields.io/badge/React-blue?logo=react" />
+  <img alt="SAP" src="https://img.shields.io/badge/SAP%20BTP-gray?logo=sap" />
+  <img alt="AI" src="https://img.shields.io/badge/Artificial%20Intelligence-black?logo=openai" />
+</p>
+
+<p align="center">
+  <em>A passionate developer in progress who loves learning through projects and building intelligent solutions with Full-Stack development, AI, and SAP technologies.</em>
+</p>
+
 
 ### 🧠 About Me
 
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Spring](https://img.shields.io/badge/Spring-green?logo=spring)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![SAP](https://img.shields.io/badge/SAP%20BTP-gray?logo=sap)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-black?logo=openai)
 - 🌱 Currently improving my skills in **Java**, **Spring**, **React** and  **AI**
 - 🤖 Exploring how **AI** can enhance **Full-Stack applications**
 - 💼 Interested in **SAP BTP** ecosystem and enterprise innovation 
@@ -22,11 +30,16 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Java, C# ,JavaScript ,Pyhton , SQL  
-**Frameworks:** Spring Boot,Hibernate , ASP.NET Core , React, Node.js  ,FastAPI
+
+**Languages:** Java, C#, SAP Abap , JavaScript, Python, SQL  
+
+**Frameworks:** Spring Boot, ASP.NET Core , React , Node.js , Hibernate, FastAPI  
+
 **Tools:** IntelliJ IDEA, DataGrip, Rider, Git, Postman, VS Code  
+
 **Databases:** PostgreSQL, MySQL  
-**Other Interests:** AI | Cloud | SAP BTP | Microservices  
+
+**Other Interests:** AI | Cloud | SAP BTP | Microservices
 
 ---
 
