@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  🎓 <strong>Düzce Üniversitesi — Bilgisayar Mühendisliği</strong><br/>
+  🎓 <strong> Computer Engineering Student (BSc) - Düzce University</strong><br/>
   💻 Aspiring Full-Stack Developer (<strong>Java · Spring · React · AI</strong>)  •  SAP BTP
 </p>
 
