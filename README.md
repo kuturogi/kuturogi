@@ -37,9 +37,9 @@
 
 **Frameworks:** Spring Boot, ASP.NET Core , React , Node.js , Hibernate, FastAPI  
 
-**Tools:** IntelliJ IDEA, DataGrip, Rider, Git, Postman, VS Code  
+**Tools:** IntelliJ IDEA, Eclipse, DataGrip, Rider, Git, Postman, VS Code  
 
-**Databases:** PostgreSQL, MySQL  
+**Databases:** MySQL ,PostgreSQL
 
 **Other Interests:** AI | Cloud | SAP BTP | Microservices
 
