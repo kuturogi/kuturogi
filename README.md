@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 <strong> Computer Engineering Student (BSc) - Düzce University</strong><br/>
-  💻 Aspiring Full-Stack Developer (<strong>Java · Spring · React · AI</strong>)  •  SAP BTP
+  💻 Aspiring Full-Stack Developer (<strong>ASP .NET Core ·Java · Spring · React · AI</strong>)  •  SAP BTP
 </p>
 
 <p align="center">
