@@ -24,7 +24,7 @@
 
 ### 🧠 About Me
 
-- 🌱 Currently improving my skills in **Java**, **Spring**, **React** and  **AI**
+- 🌱 Currently improving my skills in **ASP .NET Core**, **Java**, **Spring**, **React** and  **AI**
 - 🤖 Exploring how **AI** can enhance **Full-Stack applications**
 - 💼 Interested in **SAP BTP** ecosystem and enterprise innovation 
 - ⚙️ Open to collaborations and learning opportunities  
